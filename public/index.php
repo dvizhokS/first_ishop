@@ -5,5 +5,4 @@ require_once LIBS.'/functions.php';
 
 new \ishop\App();
 
-\ishop\App::$app->setProperty("test", "Test");  
-debug(\ishop\App::$app->getProprties());
+throw new Exception('Страница не найдена',500);
