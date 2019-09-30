@@ -1,4 +1,6 @@
 <h1>Hello world</h1>
 
-<?=$name?>
-<?=$age?>
+<p><?=$name?></p>
+<p><?=$age?></p>
+<p><?php debug($names)?></p>
+
