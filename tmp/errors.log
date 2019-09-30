@@ -167,3 +167,18 @@
                     Main/index.php | 
                 Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 36
 -----------
+[2019-09-30 21:17:36] Текст ошибки: syntax error, unexpected '}' | 
+                Файл: /home/sergei/first_ishop/app/controllers/MainController.php | Строка: 12
+-----------
+[2019-09-30 21:21:08] Текст ошибки: Class 'app\controllers\APP' not found | 
+                Файл: /home/sergei/first_ishop/app/controllers/MainController.php | Строка: 11
+-----------
+[2019-09-30 21:21:58] Текст ошибки: Class 'app\controllers\App' not found | 
+                Файл: /home/sergei/first_ishop/app/controllers/MainController.php | Строка: 11
+-----------
+[2019-09-30 21:23:43] Текст ошибки: Class 'app\controllers\App' not found | 
+                Файл: /home/sergei/first_ishop/app/controllers/MainController.php | Строка: 11
+-----------
+[2019-09-30 21:30:23] Текст ошибки: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' | 
+                Файл: /home/sergei/first_ishop/app/controllers/MainController.php | Строка: 12
+-----------
