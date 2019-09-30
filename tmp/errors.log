@@ -121,3 +121,42 @@
 [2019-09-27 10:35:33] Текст ошибки: Страница не найдена | 
                 Файл: D:\shostak\one\PHP\first_ishop\first_ishop\public\index.php | Строка: 8
 -----------
+[2019-09-30 10:23:59] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 25
+-----------
+[2019-09-30 10:25:58] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 25
+-----------
+[2019-09-30 10:27:11] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 25
+-----------
+[2019-09-30 10:48:20] Текст ошибки: Call to undefined function ishop\tr_replace() | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 58
+-----------
+[2019-09-30 13:26:05] Текст ошибки: Controller $controller not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 36
+-----------
+[2019-09-30 13:27:23] Текст ошибки: Controller $controller not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 36
+-----------
+[2019-09-30 13:28:06] Текст ошибки: Controller app\controllers\MainControllers not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 36
+-----------
+[2019-09-30 13:29:04] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 33
+-----------
+[2019-09-30 13:29:27] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 33
+-----------
+[2019-09-30 13:29:43] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 33
+-----------
+[2019-09-30 13:30:29] Текст ошибки: syntax error, unexpected '{', expecting '(' | 
+                Файл: /home/sergei/www/first_ishop/app/controllers/MainController.php | Строка: 7
+-----------
+[2019-09-30 13:33:43] Текст ошибки: Controller app\controllers\PageController not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 36
+-----------
+[2019-09-30 13:34:02] Текст ошибки: syntax error, unexpected 'viewAction' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) | 
+                Файл: /home/sergei/www/first_ishop/app/controllers/PageController.php | Строка: 7
+-----------
