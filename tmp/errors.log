@@ -160,3 +160,10 @@
 [2019-09-30 13:34:02] Текст ошибки: syntax error, unexpected 'viewAction' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) | 
                 Файл: /home/sergei/www/first_ishop/app/controllers/PageController.php | Строка: 7
 -----------
+[2019-09-30 14:22:24] Текст ошибки: Class 'app\controllers\Controller' not found | 
+                Файл: /home/sergei/www/first_ishop/app/controllers/MainController.php | Строка: 5
+-----------
+[2019-09-30 15:15:31] Текст ошибки: Not foun view /home/sergei/www/first_ishop/app/views/
+                    Main/index.php | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 36
+-----------
