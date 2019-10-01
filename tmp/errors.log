@@ -194,3 +194,15 @@
 [2019-09-30 22:14:55] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | 
                 Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 34
 -----------
+[2019-10-01 08:49:20] Текст ошибки: syntax error, unexpected end of file, expecting ';' | 
+                Файл: /home/sergei/www/first_ishop/config/config_db.php | Строка: 7
+-----------
+[2019-10-01 08:49:54] Текст ошибки: Not connect to DB | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Db.php | Строка: 14
+-----------
+[2019-10-01 08:54:46] Текст ошибки: syntax error, unexpected 'use' (T_USE) | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Db.php | Строка: 12
+-----------
+[2019-10-01 09:02:48] Текст ошибки: Controller app\controllers\EeController not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 38
+-----------
