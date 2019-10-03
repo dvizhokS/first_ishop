@@ -19,7 +19,7 @@ class Registry{
         return null;
     }
 
-    public function getProprties(){
+    public function getProperties(){
         return self::$properties;
     }
 }
