@@ -283,3 +283,15 @@
 [2019-10-03 13:50:09] Текст ошибки: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | 
                 Файл: /home/sergei/www/first_ishop/app/views/Main/index.php | Строка: 157
 -----------
+[2019-10-03 14:30:02] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-03 14:30:28] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-03 14:32:41] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-03 14:35:11] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
