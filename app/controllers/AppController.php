@@ -13,10 +13,9 @@ class AppController extends Controller{
     {
         parent::__construct($route);
         new AppModel();
-        setcookie('currency', 'EUR', time()+3600*7*24, '/');
         App::$app->setProperty('currencies', Currency::getCurrencies());
         App::$app->setProperty('currency', Currency::getCurrency(App::$app->getProperty('currencies')));
-        debug(App::$app->getProperties());
+        
         
     }
 
