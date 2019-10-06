@@ -295,3 +295,63 @@
 [2019-10-03 14:35:11] Текст ошибки: Страница не найдена | 
                 Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
 -----------
+[2019-10-06 21:39:42] Текст ошибки: Controller app\controllers\ProductController not found | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 38
+-----------
+[2019-10-06 21:48:12] Текст ошибки: syntax error, unexpected '{', expecting '(' | 
+                Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 7
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:50] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:51] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 21:49:51] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 22:08:39] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 22:09:07] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-06 22:16:55] Текст ошибки: Call to undefined method app\controllers\ProductController::route() | 
+                Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 8
+-----------
+[2019-10-06 22:16:57] Текст ошибки: Call to undefined method app\controllers\ProductController::route() | 
+                Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 8
+-----------
+[2019-10-06 22:21:40] Текст ошибки: Page not fount | 
+                Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 13
+-----------
