@@ -355,3 +355,6 @@
 [2019-10-06 22:21:40] Текст ошибки: Page not fount | 
                 Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 13
 -----------
+[2019-10-07 22:51:53] Текст ошибки: syntax error, unexpected '<' | 
+                Файл: /home/sergei/first_ishop/app/views/Product/view.php | Строка: 31
+-----------
