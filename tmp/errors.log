@@ -358,3 +358,12 @@
 [2019-10-07 22:51:53] Текст ошибки: syntax error, unexpected '<' | 
                 Файл: /home/sergei/first_ishop/app/views/Product/view.php | Строка: 31
 -----------
+[2019-10-08 22:47:07] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 | 
+                Файл: /home/sergei/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-08 22:47:35] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LINIT 3  -- keep-cache' at line 1 | 
+                Файл: /home/sergei/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-08 22:48:13] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LINIT 3  -- keep-cache' at line 1 | 
+                Файл: /home/sergei/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
