@@ -382,3 +382,6 @@
 [2019-10-10 09:16:46] Текст ошибки: Controller app\controllers\CategoryController not found | 
                 Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 38
 -----------
+[2019-10-10 10:44:39] Текст ошибки: Not foun view /home/sergei/first_ishop/app/views/Cart/add.php | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/base/View.php | Строка: 38
+-----------
