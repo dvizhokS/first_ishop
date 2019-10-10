@@ -367,3 +367,18 @@
 [2019-10-08 22:48:13] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LINIT 3  -- keep-cache' at line 1 | 
                 Файл: /home/sergei/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
 -----------
+[2019-10-09 10:53:35] Текст ошибки: Class 'app\models\Breadcrambs' not found | 
+                Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 18
+-----------
+[2019-10-09 10:54:14] Текст ошибки: Class 'app\controllers\Breadcrumbs' not found | 
+                Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 18
+-----------
+[2019-10-09 10:54:33] Текст ошибки: Class 'app\models\Breadcrumbs' not found | 
+                Файл: /home/sergei/first_ishop/app/controllers/ProductController.php | Строка: 18
+-----------
+[2019-10-09 22:39:43] Текст ошибки: Controller app\controllers\CategoryController not found | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 38
+-----------
+[2019-10-10 09:16:46] Текст ошибки: Controller app\controllers\CategoryController not found | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 38
+-----------
