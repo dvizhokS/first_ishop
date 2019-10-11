@@ -62,6 +62,7 @@
 							<?php endif; ?>
 
 							<?=$product->content;?>
+							<?php if($mods): ?>
 							<div class="available">
 								<ul>
 									<li>Color
@@ -72,9 +73,10 @@
 											<?php endforeach; ?>
 										</select>
 									</li>
-								<div class="clearfix"> </div>
-							</ul>
-						</div>
+									<div class="clearfix"> </div>
+								</ul>
+							</div>
+							<?php endif; ?>
 							<ul class="tag-men">
 								<li><span>Category</span>
 								<span>: 

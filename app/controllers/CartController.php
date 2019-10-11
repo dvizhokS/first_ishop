@@ -1,6 +1,8 @@
 <?php
 namespace app\controllers;
 
+use app\models\Cart;
+
 class CartController extends AppController{
 
 
@@ -20,6 +22,11 @@ class CartController extends AppController{
             }
         }
         
-        die;
+        $cart = new Cart();
+        $cart->addToCart($product, $qty, $mod); 
+        if($this->isAjax()){
+            $this->loadView('cart_modal');
+        }
+        redirect();
     }
 }
