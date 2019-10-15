@@ -18,7 +18,13 @@ $('body').on('click', '.add-to-cart-link', function(e){
 });
 
 function showCart(cart){
-    console.log(cart);
+    if($.trim(cart) == '<h3>Корзинаа пуста</h3>'){
+        $('#cart .modal-footer a, #cart .modal-footer .btn-danger').css('dysplay', 'none');
+    }else{
+        $('#cart .modal-footer a, #cart .modal-footer .btn-danger').css('dysplay', 'inline-block');
+    }
+    $('#cart .modal-body').html(cart);
+    $('#cart').modal();
 }
 // Cart
 
