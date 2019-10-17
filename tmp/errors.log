@@ -589,3 +589,6 @@
 [2019-10-17 10:53:26] Текст ошибки: Call to a member function grep() on null | 
                 Файл: /home/sergei/first_ishop/app/controllers/SearchController.php | Строка: 13
 -----------
+[2019-10-17 15:18:51] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/first_ishop/vendor/ishop/core/Router.php | Строка: 35
+-----------
