@@ -3,6 +3,10 @@
 namespace app\controllers;
 
 use app\models\Category;
+use app\models\Breadcrumbs;
+
+use ishop\App;
+use ishop\libs\Pagination;
 
 class CategoryController extends AppController{
 
@@ -13,8 +17,12 @@ class CategoryController extends AppController{
             throw new \Exception('Page not found', 404);
         }
         
-        $breadcrumbs = '';
+        $page = isset($_GET['page']) ? (int)($_GET['page']) : 1;
+        $perpage = App::$app->getProperty('pagination');
+        $pagination = new Pagination($page, $perpage, 20);
 
+        $breadcrumbs = Breadcrumbs::getBreadcrumbs($category->id);
+        
         $cat_model = new Category();
         $ids = $cat_model->getIds($category->id);
         $ids = !$ids ? $category->id : $ids . $category->id;
