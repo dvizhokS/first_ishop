@@ -640,3 +640,9 @@
 [2019-10-22 10:46:39] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4,6,7,5,8,9,10,1 -- keep-cache' at line 1 | 
                 Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
 -----------
+[2019-10-22 13:29:28] Текст ошибки: Controller app\controllers\UserController not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 38
+-----------
+[2019-10-22 15:06:29] Текст ошибки: Class 'app\controllers\User' not found | 
+                Файл: /home/sergei/www/first_ishop/app/controllers/UserController.php | Строка: 9
+-----------
