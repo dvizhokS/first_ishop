@@ -616,3 +616,27 @@
 [2019-10-21 13:35:03] Текст ошибки: Not foun view /home/sergei/www/first_ishop/app/views/Category/view.php | 
                 Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 38
 -----------
+[2019-10-21 15:37:52] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 35
+-----------
+[2019-10-22 08:05:07] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 35
+-----------
+[2019-10-22 08:05:13] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-22 08:05:13] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-22 08:11:49] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 35
+-----------
+[2019-10-22 08:39:33] Текст ошибки: syntax error, unexpected '.=' (T_CONCAT_EQUAL) | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/libs/Pagination.php | Строка: 53
+-----------
+[2019-10-22 10:46:03] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '{$ids} -- keep-cache' at line 1 | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-22 10:46:39] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4,6,7,5,8,9,10,1 -- keep-cache' at line 1 | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
