@@ -646,3 +646,6 @@
 [2019-10-22 15:06:29] Текст ошибки: Class 'app\controllers\User' not found | 
                 Файл: /home/sergei/www/first_ishop/app/controllers/UserController.php | Строка: 9
 -----------
+[2019-10-23 13:25:14] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
