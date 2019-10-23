@@ -649,3 +649,30 @@
 [2019-10-23 13:25:14] Текст ошибки: Страница не найдена | 
                 Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
 -----------
+[2019-10-23 14:30:38] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 14:32:35] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 14:33:40] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 14:34:44] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 14:41:06] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 14:52:14] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 14:53:08] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 15:01:19] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-23 15:01:48] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
