@@ -64,26 +64,33 @@ class CartController extends AppController{
     public function checkoutAction(){
         if(!empty($_POST)){
             if(!User::checkAuth()){
+                
+                // echo '1 ';
+
                 $user = new User();
                 $data = $_POST;
                 $user->load($data);
                 if(!$user->validate($data) || !$user->checkUnique()){
+                    // echo '2 ';  die;
                     $user->getErrors();
                     $_SESSION['form_data'] = $data;
                     redirect();
                 }else{
+                    // echo '3 ';  die;
                     $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
                     if(!$user_id = $user->save('user')){
                         $_SESSION['error'] = 'Ошибка';
                         redirect();
                     }
                 }
-                redirect();
             }
-
+            // echo '4 ';  die;
             $data['user_id'] = isset($user_id) ? $user_id : $_SESSION['user']['id'];
             $data['note'] = !empty($_POST['note']) ? $_POST['note'] : '';
             $user_email = isset($_SESSION['user']['email']) ? $_SESSION['user']['email'] : $_POST['email'];
+            
+            // debug($data);   die;
+
             $order_id = Order::saveOrder($data);
             Order::mailOrder($order_id, $user_email);
         }
