@@ -1,6 +1,11 @@
 <?php
 namespace app\models;
 
+use ishop\App;
+use Swift_Mailer;
+use Swift_SmtpTransport;
+use Swift_Message;
+
 class Order extends AppModel{
     public static function saveOrder($data){
         $order = \R::dispense('order');
@@ -27,7 +32,39 @@ class Order extends AppModel{
 
     public static function mailOrder($order_id, $user_email){
 
+        // Create the Transport
+        $transport = (new Swift_SmtpTransport(App::$app->getProperty('smtp_host'), 
+                App::$app->getProperty('smtp_port'), App::$app->getProperty('smtp_protocol')))
+        ->setUsername(App::$app->getProperty('smtp_login'))
+        ->setPassword(App::$app->getProperty('smtp_password'))
+        ;
+
+        // Create the Mailer using your created Transport
+        $mailer = new Swift_Mailer($transport);
+
+        // Create a message
+        ob_start();
+        require APP . '/views/mail/mail_order.php';
+        $body = ob_get_clean();
+
+        $message = (new Swift_Message("Заказ №{$order_id}"))
+            ->setFrom([App::$app->getProperty('smtp_login') => App::$app->getProperty('shop_name')])
+            ->setTo($user_email)
+            ->setBody($body, 'text/html')
+            ;
+        // Send the message
+        
+        $result = $mailer->send($message);
+
+        unset($_SESSION['cart']);
+        unset($_SESSION['cart.qty']);
+        unset($_SESSION['cart.sum']);
+        unset($_SESSION['cart.currency']);
+        $_SESSION['success'] = 'Спасибо за Ваш заказ. В ближайшее время с Вами 
+свяжется менеджер для согласования заказа';
+
     }
+
 
 
 }

@@ -700,3 +700,21 @@
 [2019-10-25 08:42:14] Текст ошибки: Страница не найдена | 
                 Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
 -----------
+[2019-10-25 13:03:25] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-10-25 13:12:35] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-10-25 13:18:59] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-10-25 13:19:00] Текст ошибки: Method $controller::$action not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 35
+-----------
+[2019-10-25 13:23:01] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-10-25 13:30:40] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
