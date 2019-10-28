@@ -49,7 +49,7 @@ class Order extends AppModel{
 
         $message = (new Swift_Message("Заказ №{$order_id}"))
             ->setFrom([App::$app->getProperty('smtp_login') => App::$app->getProperty('shop_name')])
-            ->setTo($user_email)
+            ->setTo(App::$app->getProperty('admin_email'))
             ->setBody($body, 'text/html')
             ;
         // Send the message

@@ -211,7 +211,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
-		
+
+<div class="preloader"><img src="images/no_image.jpg" alt="not found"></div>
+
 <?php  $curr = \ishop\App::$app->getProperty('currency'); ?>
 <script>
 	var path = '<?=PATH;?>',

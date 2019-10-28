@@ -718,3 +718,42 @@
 [2019-10-25 13:30:40] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
                 Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
 -----------
+[2019-10-28 08:56:23] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 08:58:34] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-10-28 13:37:23] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.atribute_group' doesn't exist | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-10-28 13:37:23] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:37:23] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:37:24] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:38:14] Текст ошибки: Function name must be a string | 
+                Файл: /home/sergei/www/first_ishop/app/widgets/filter/Filter.php | Строка: 28
+-----------
+[2019-10-28 13:38:14] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:38:14] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:38:14] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:52:08] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:52:08] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
+[2019-10-28 13:52:08] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
+-----------
