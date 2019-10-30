@@ -23,6 +23,7 @@ class Filter{
             $this->groups = $this->getGroups();
             $cache->set('filter_group', $this->groups, 30);
         }
+        
         $this->attrs = $cache->get('filter_attrs');
         if(!$this->attrs){
             $this->attrs = $this->getAttrs();
@@ -34,6 +35,10 @@ class Filter{
 
     protected function getHtml(){
         ob_start();
+        $filter = self::getFilter();
+        if(!empty($filter)){
+            $filter = explode(',', $filter);
+        }
         require $this->tpl;
         return ob_get_clean();
     }
