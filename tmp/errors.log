@@ -907,3 +907,6 @@
 [2019-10-31 13:38:29] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.products' doesn't exist | 
                 Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
 -----------
+[2019-10-31 14:49:31] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.order_id' in 'on clause' | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
