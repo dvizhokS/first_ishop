@@ -793,3 +793,114 @@
 [2019-10-31 10:03:11] Текст ошибки: Controller app\controllers\admin\CacheController not found | 
                 Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 39
 -----------
+[2019-10-31 10:09:49] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:16:29] Текст ошибки: Page not found | 
+                Файл: /home/sergei/www/first_ishop/app/controllers/admin/AppController.php | Строка: 16
+-----------
+[2019-10-31 10:52:30] Текст ошибки: Not found view /home/sergei/www/first_ishop/app/views/admin/User/login-admin.php | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 39
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 10:54:54] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:44] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:45] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:56] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:22:57] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:26:01] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:26:01] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:26:01] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:26:01] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 12:26:01] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-10-31 13:17:30] Текст ошибки: Class 'R' not found | 
+                Файл: /home/sergei/www/first_ishop/app/views/layouts/admin.php | Строка: 590
+-----------
+[2019-10-31 13:17:46] Текст ошибки: Class 'R' not found | 
+                Файл: /home/sergei/www/first_ishop/app/views/layouts/admin.php | Строка: 590
+-----------
