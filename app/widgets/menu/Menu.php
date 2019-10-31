@@ -36,7 +36,7 @@ class Menu{
 
     protected function run(){
         $cache = Cache::instance();
-        // $this->menuHtml = $cache->get($this->cacheKey);
+        $this->menuHtml = $cache->get($this->cacheKey);
         if(!$this->menuHtml){
             $this->data = App::$app->getProperty('cats');
             if(!$this->data){

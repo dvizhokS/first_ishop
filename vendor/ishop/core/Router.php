@@ -25,6 +25,7 @@ class Router{
                         self::$route['prefix'] . 
                         self::$route['controller'] . 
                         'Controller';
+            
             if(class_exists($controller)){
                 $controllerObject = new $controller(self::$route);
                 $action = self::lowerCamelCase(self::$route['action']). 'Action';

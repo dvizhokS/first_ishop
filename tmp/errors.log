@@ -757,3 +757,39 @@
 [2019-10-28 13:52:08] Текст ошибки: Страница не найдена | 
                 Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 41
 -----------
+[2019-10-31 08:25:47] Текст ошибки: Controller app\controllers\admin\MainController not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 38
+-----------
+[2019-10-31 08:31:31] Текст ошибки: Controller app\controllers\admin\MainController not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 38
+-----------
+[2019-10-31 08:39:42] Текст ошибки: Not foun view /home/sergei/www/first_ishop/app/views/admin\Main/index.php | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 38
+-----------
+[2019-10-31 08:42:53] Текст ошибки: Not foun view /home/sergei/www/first_ishop/app/views/admin\Main/index.php | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 38
+-----------
+[2019-10-31 08:44:09] Текст ошибки: Not foun view /home/sergei/www/first_ishop/app/views/admin\Main/index.php | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 38
+-----------
+[2019-10-31 08:46:58] Текст ошибки: Not foun view /home/sergei/www/first_ishop/app/views/admin\Main/index.php | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 38
+-----------
+[2019-10-31 08:48:46] Текст ошибки: Class 'R' not found | 
+                Файл: /home/sergei/www/first_ishop/app/widgets/menu/Menu.php | Строка: 43
+-----------
+[2019-10-31 08:49:05] Текст ошибки: Class 'R' not found | 
+                Файл: /home/sergei/www/first_ishop/app/widgets/menu/Menu.php | Строка: 43
+-----------
+[2019-10-31 08:50:00] Текст ошибки: Class 'R' not found | 
+                Файл: /home/sergei/www/first_ishop/app/widgets/menu/Menu.php | Строка: 43
+-----------
+[2019-10-31 08:51:18] Текст ошибки: Class 'R' not found | 
+                Файл: /home/sergei/www/first_ishop/app/views/layouts/watches.php | Строка: 294
+-----------
+[2019-10-31 10:02:59] Текст ошибки: Controller app\controllers\admin\OrderController not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 39
+-----------
+[2019-10-31 10:03:11] Текст ошибки: Controller app\controllers\admin\CacheController not found | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 39
+-----------
