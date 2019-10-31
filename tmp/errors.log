@@ -904,3 +904,6 @@
 [2019-10-31 13:17:46] Текст ошибки: Class 'R' not found | 
                 Файл: /home/sergei/www/first_ishop/app/views/layouts/admin.php | Строка: 590
 -----------
+[2019-10-31 13:38:29] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.products' doesn't exist | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
