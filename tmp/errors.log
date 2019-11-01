@@ -910,3 +910,40 @@
 [2019-10-31 14:49:31] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.order_id' in 'on clause' | 
                 Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
 -----------
+[2019-11-01 08:40:06] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-11-01 08:40:07] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-11-01 08:40:07] Текст ошибки: Страница не найдена | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/Router.php | Строка: 42
+-----------
+[2019-11-01 08:40:58] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-11-01 08:41:41] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-11-01 08:42:13] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-11-01 08:43:36] Текст ошибки: Connection could not be established with host smtp.urk.net [Время ожидания соединения истекло #110] | 
+                Файл: /home/sergei/www/first_ishop/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/StreamBuffer.php | Строка: 269
+-----------
+[2019-11-01 09:01:11] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' `user`.`name`, 
+        ROUND(SUM(`order_product`.`price`), 2) AS `sum` FROM `o' at line 1 | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-11-01 09:02:09] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.*' in 'field list' | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-11-01 09:02:15] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.*' in 'field list' | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-11-01 09:02:20] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'order.*' in 'field list' | 
+                Файл: /home/sergei/www/first_ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Строка: 194
+-----------
+[2019-11-01 09:05:36] Текст ошибки: Not found view /home/sergei/www/first_ishop/app/views/admin/Order/view.php | 
+                Файл: /home/sergei/www/first_ishop/vendor/ishop/core/base/View.php | Строка: 39
+-----------
